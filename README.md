@@ -1,2 +1,5 @@
-# rlhx
-rc3 map
+Read-Me RLHx rc3
+
+this is the Repository for the Map for the rc3 event
+we want to recreate different workingspaces where sexworker would normally work.
+we are open for contributions, please read the styleguide for rc3 first
