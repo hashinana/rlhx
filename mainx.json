@@ -1,4 +1,11 @@
 { "compressionlevel":-1,
+ "editorsettings":
+    {
+     "export":
+        {
+         "target":"."
+        }
+    },
  "height":70,
  "infinite":false,
  "layers":[
@@ -17,18 +24,24 @@
         {
          "draworder":"topdown",
          "id":4,
-         "name":"floor",
+         "name":"floorLayer",
          "objects":[
                 {
                  "height":2148,
                  "id":1,
                  "name":"",
+                 "properties":[
+                        {
+                         "name":"floorLayer",
+                         "type":"bool",
+                         "value":true
+                        }],
                  "rotation":0,
                  "type":"",
                  "visible":true,
                  "width":2136,
-                 "x":52,
-                 "y":40
+                 "x":64,
+                 "y":52
                 }],
          "opacity":1,
          "type":"objectgroup",
