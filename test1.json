@@ -1,5 +1,13 @@
 { "columns":32,
- "image":"..\/..\/..\/Desktop\/RLHx\/test3.png",
+ "editorsettings":
+    {
+     "export":
+        {
+         "format":"",
+         "target":"."
+        }
+    },
+ "image":"test3.png",
  "imageheight":768,
  "imagewidth":1024,
  "margin":0,
