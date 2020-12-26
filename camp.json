@@ -1,11 +1,4 @@
 { "compressionlevel":-1,
- "editorsettings":
-    {
-     "export":
-        {
-         "target":"."
-        }
-    },
  "height":50,
  "infinite":false,
  "layers":[
@@ -48,9 +41,15 @@
         {
          "draworder":"topdown",
          "id":5,
-         "name":"dinge",
+         "name":"foorLayer",
          "objects":[],
          "opacity":1,
+         "properties":[
+                {
+                 "name":"floorLayer",
+                 "type":"bool",
+                 "value":true
+                }],
          "type":"objectgroup",
          "visible":true,
          "x":0,
@@ -273,31 +272,31 @@
  "tilesets":[
         {
          "firstgid":1,
-         "source":"grass2.tsx"
+         "source":"..\/..\/..\/Desktop\/RLHx\/grass2.tsx"
         }, 
         {
          "firstgid":33,
-         "source":"grass.tsx"
+         "source":"..\/..\/..\/Desktop\/RLHx\/grass.tsx"
         }, 
         {
          "firstgid":65,
-         "source":"ProjectUtumno_full.tsx"
+         "source":"..\/..\/..\/Desktop\/RLHx\/ProjectUtumno_full.tsx"
         }, 
         {
          "firstgid":6145,
-         "source":"basics.tsx"
+         "source":"..\/..\/..\/Desktop\/RLHx\/basics.tsx"
         }, 
         {
          "firstgid":8140,
-         "source":"zelt.tsx"
+         "source":"..\/..\/..\/Desktop\/RLHx\/zelt.tsx"
         }, 
         {
          "firstgid":8155,
-         "source":"rc3-mullana-overlay.tsx"
+         "source":"..\/..\/..\/Desktop\/RLHx\/rc3-mullana-overlay.tsx"
         }, 
         {
          "firstgid":8667,
-         "source":"rc3-mullana-functionary.tsx"
+         "source":"..\/..\/..\/Desktop\/RLHx\/rc3-mullana-functionary.tsx"
         }, 
         {
          "firstgid":8923,
@@ -305,12 +304,12 @@
         }, 
         {
          "firstgid":9051,
-         "source":"rc3-mullana-floor-wall.tsx"
+         "source":"..\/..\/..\/Desktop\/RLHx\/rc3-mullana-floor-wall.tsx"
         }, 
         {
          "columns":32,
          "firstgid":9307,
-         "image":"test3.png",
+         "image":"..\/..\/..\/Desktop\/RLHx\/test3.png",
          "imageheight":768,
          "imagewidth":1024,
          "margin":0,
