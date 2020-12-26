@@ -27,6 +27,12 @@
          "id":19,
          "name":"ballistic",
          "opacity":1,
+         "properties":[
+                {
+                 "name":"collides",
+                 "type":"bool",
+                 "value":true
+                }],
          "type":"tilelayer",
          "visible":false,
          "width":50,
@@ -48,7 +54,7 @@
         {
          "draworder":"topdown",
          "id":5,
-         "name":"foorLayer",
+         "name":"floorLayer",
          "objects":[],
          "opacity":1,
          "properties":[
