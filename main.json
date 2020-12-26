@@ -190,17 +190,8 @@
  "tileheight":32,
  "tilesets":[
         {
-         "columns":15,
          "firstgid":1,
-         "image":"..\/..\/..\/Desktop\/RLHx\/cija_32x32_expansion for Pipoya_CC0.png",
-         "imageheight":4256,
-         "imagewidth":480,
-         "margin":0,
-         "name":"basics",
-         "spacing":0,
-         "tilecount":1995,
-         "tileheight":32,
-         "tilewidth":32
+         "source":"basics.json"
         }, 
         {
          "firstgid":1996,
@@ -223,17 +214,8 @@
          "source":"rc3-mullana-functionary.json"
         }, 
         {
-         "columns":64,
          "firstgid":3163,
-         "image":"..\/..\/..\/Desktop\/V7\/V7 rc3\/ProjectUtumno_full.png",
-         "imageheight":3040,
-         "imagewidth":2048,
-         "margin":0,
-         "name":"ProjectUtumno_full",
-         "spacing":0,
-         "tilecount":6080,
-         "tileheight":32,
-         "tilewidth":32
+         "source":"ProjectUtumno_full.json"
         }, 
         {
          "columns":8,
@@ -249,17 +231,8 @@
          "tilewidth":32
         }, 
         {
-         "columns":8,
          "firstgid":9275,
-         "image":"..\/..\/..\/Desktop\/V7\/V7 rc3\/grass.png",
-         "imageheight":128,
-         "imagewidth":256,
-         "margin":0,
-         "name":"grass",
-         "spacing":0,
-         "tilecount":32,
-         "tileheight":32,
-         "tilewidth":32
+         "source":"grass.json"
         }, 
         {
          "firstgid":9307,
