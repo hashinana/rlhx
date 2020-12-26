@@ -1,4 +1,11 @@
 { "compressionlevel":-1,
+ "editorsettings":
+    {
+     "export":
+        {
+         "target":"."
+        }
+    },
  "height":50,
  "infinite":false,
  "layers":[
@@ -271,28 +278,64 @@
  "tileheight":32,
  "tilesets":[
         {
+         "columns":8,
          "firstgid":1,
-         "source":"grass2.tsx"
+         "image":"grass-V2.png",
+         "imageheight":128,
+         "imagewidth":256,
+         "margin":0,
+         "name":"grass2",
+         "spacing":0,
+         "tilecount":32,
+         "tileheight":32,
+         "tilewidth":32
         }, 
         {
+         "columns":8,
          "firstgid":33,
-         "source":"grass.tsx"
+         "image":"grass.png",
+         "imageheight":128,
+         "imagewidth":256,
+         "margin":0,
+         "name":"grass",
+         "spacing":0,
+         "tilecount":32,
+         "tileheight":32,
+         "tilewidth":32
         }, 
         {
          "firstgid":65,
          "source":"ProjectUtumno_full.tsx"
         }, 
         {
+         "columns":15,
          "firstgid":6145,
-         "source":"basics.tsx"
+         "image":"cija_32x32_expansion for Pipoya_CC0.png",
+         "imageheight":4256,
+         "imagewidth":480,
+         "margin":0,
+         "name":"basics",
+         "spacing":0,
+         "tilecount":1995,
+         "tileheight":32,
+         "tilewidth":32
         }, 
         {
          "firstgid":8140,
          "source":"zelt.tsx"
         }, 
         {
+         "columns":16,
          "firstgid":8155,
-         "source":"rc3-mullana-overlay.tsx"
+         "image":"rc3-mullana-overlay.png",
+         "imageheight":1024,
+         "imagewidth":512,
+         "margin":0,
+         "name":"rc3-mullana-overlay",
+         "spacing":0,
+         "tilecount":512,
+         "tileheight":32,
+         "tilewidth":32
         }, 
         {
          "firstgid":8667,
@@ -303,8 +346,17 @@
          "source":"rc3-mullana-colors-128.tsx"
         }, 
         {
+         "columns":16,
          "firstgid":9051,
-         "source":"rc3-mullana-floor-wall.tsx"
+         "image":"rc3-mullana-floor-wall.png",
+         "imageheight":512,
+         "imagewidth":512,
+         "margin":0,
+         "name":"rc3-mullana-floor-wall",
+         "spacing":0,
+         "tilecount":256,
+         "tileheight":32,
+         "tilewidth":32
         }, 
         {
          "columns":32,
@@ -317,6 +369,68 @@
          "spacing":0,
          "tilecount":768,
          "tileheight":32,
+         "tilewidth":32
+        }, 
+        {
+         "columns":5,
+         "firstgid":10075,
+         "image":"2_Rundzelt_0.png",
+         "imageheight":96,
+         "imagewidth":160,
+         "margin":0,
+         "name":"zelt",
+         "spacing":0,
+         "tilecount":15,
+         "tileheight":32,
+         "tilewidth":32
+        }, 
+        {
+         "columns":32,
+         "firstgid":10090,
+         "image":"test3.png",
+         "imageheight":768,
+         "imagewidth":1024,
+         "margin":0,
+         "name":"test1",
+         "spacing":0,
+         "tilecount":768,
+         "tileheight":32,
+         "tilewidth":32
+        }, 
+        {
+         "columns":16,
+         "firstgid":10858,
+         "image":"rc3-mullana-functionary.png",
+         "imageheight":512,
+         "imagewidth":512,
+         "margin":0,
+         "name":"rc3-mullana-functionary",
+         "spacing":0,
+         "tilecount":256,
+         "tileheight":32,
+         "tilewidth":32
+        }, 
+        {
+         "columns":16,
+         "firstgid":11114,
+         "image":"rc3-mullana-colors-128.png",
+         "imageheight":256,
+         "imagewidth":512,
+         "margin":0,
+         "name":"rc3-mullana-colors-128",
+         "spacing":0,
+         "tilecount":128,
+         "tileheight":32,
+         "tiles":[
+                {
+                 "id":2,
+                 "properties":[
+                        {
+                         "name":"collides",
+                         "type":"bool",
+                         "value":true
+                        }]
+                }],
          "tilewidth":32
         }],
  "tilewidth":32,
