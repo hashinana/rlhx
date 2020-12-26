@@ -84,7 +84,7 @@
         {
          "draworder":"topdown",
          "id":6,
-         "name":"floor",
+         "name":"floorLayer",
          "objects":[
                 {
                  "height":469.333333333333,
@@ -98,6 +98,12 @@
                  "y":586.666666666667
                 }],
          "opacity":1,
+         "properties":[
+                {
+                 "name":"floorLayer",
+                 "type":"bool",
+                 "value":true
+                }],
          "type":"objectgroup",
          "visible":true,
          "x":0,
@@ -112,19 +118,19 @@
  "tilesets":[
         {
          "firstgid":1,
-         "source":"rc3-mullana-overlay.json"
+         "source":"rc3-mullana-overlay.tsx"
         }, 
         {
          "firstgid":513,
-         "source":"..\/..\/..\/Desktop\/RLHx\/tempelbild.json"
+         "source":"tempelbild.tsx"
         }, 
         {
          "firstgid":1064,
-         "source":"basics.json"
+         "source":"basics.tsx"
         }, 
         {
          "firstgid":3059,
-         "source":"rc3-mullana-functionary.json"
+         "source":"rc3-mullana-functionary.tsx"
         }, 
         {
          "firstgid":3315,
