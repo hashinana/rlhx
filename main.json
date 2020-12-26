@@ -220,7 +220,7 @@
         {
          "columns":8,
          "firstgid":9243,
-         "image":"..\/..\/..\/Desktop\/V7\/V7 rc3\/grass-V2.png",
+         "image":"grass-V2.png",
          "imageheight":128,
          "imagewidth":256,
          "margin":0,
@@ -241,7 +241,7 @@
         {
          "columns":32,
          "firstgid":9858,
-         "image":"..\/..\/..\/Desktop\/RLHx\/test3.png",
+         "image":"test3.png",
          "imageheight":768,
          "imagewidth":1024,
          "margin":0,
