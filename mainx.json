@@ -76,7 +76,7 @@
         {
          "columns":15,
          "firstgid":1,
-         "image":"..\/..\/..\/Desktop\/RLHx\/cija_32x32_expansion for Pipoya_CC0.png",
+         "image":"cija_32x32_expansion for Pipoya_CC0.png",
          "imageheight":4256,
          "imagewidth":480,
          "margin":0,
@@ -89,7 +89,7 @@
         {
          "columns":16,
          "firstgid":1996,
-         "image":"..\/..\/..\/Desktop\/RLHx\/rc3-mullana-floor-wall.png",
+         "image":"rc3-mullana-floor-wall.png",
          "imageheight":512,
          "imagewidth":512,
          "margin":0,
@@ -102,7 +102,7 @@
         {
          "columns":16,
          "firstgid":2252,
-         "image":"..\/..\/..\/Desktop\/RLHx\/rc3-mullana-functionary.png",
+         "image":"rc3-mullana-functionary.png",
          "imageheight":512,
          "imagewidth":512,
          "margin":0,
