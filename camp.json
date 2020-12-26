@@ -273,31 +273,31 @@
  "tilesets":[
         {
          "firstgid":1,
-         "source":"..\/..\/..\/Desktop\/RLHx\/grass2.tsx"
+         "source":"grass2.tsx"
         }, 
         {
          "firstgid":33,
-         "source":"..\/..\/..\/Desktop\/RLHx\/grass.tsx"
+         "source":"grass.tsx"
         }, 
         {
          "firstgid":65,
-         "source":"..\/..\/..\/Desktop\/RLHx\/ProjectUtumno_full.tsx"
+         "source":"ProjectUtumno_full.tsx"
         }, 
         {
          "firstgid":6145,
-         "source":"..\/..\/..\/Desktop\/RLHx\/basics.tsx"
+         "source":"basics.tsx"
         }, 
         {
          "firstgid":8140,
-         "source":"..\/..\/..\/Desktop\/RLHx\/zelt.tsx"
+         "source":"zelt.tsx"
         }, 
         {
          "firstgid":8155,
-         "source":"..\/..\/..\/Desktop\/RLHx\/rc3-mullana-overlay.tsx"
+         "source":"rc3-mullana-overlay.tsx"
         }, 
         {
          "firstgid":8667,
-         "source":"..\/..\/..\/Desktop\/RLHx\/rc3-mullana-functionary.tsx"
+         "source":"rc3-mullana-functionary.tsx"
         }, 
         {
          "firstgid":8923,
@@ -305,12 +305,12 @@
         }, 
         {
          "firstgid":9051,
-         "source":"..\/..\/..\/Desktop\/RLHx\/rc3-mullana-floor-wall.tsx"
+         "source":"rc3-mullana-floor-wall.tsx"
         }, 
         {
          "columns":32,
          "firstgid":9307,
-         "image":"..\/..\/..\/Desktop\/RLHx\/test3.png",
+         "image":"test3.png",
          "imageheight":768,
          "imagewidth":1024,
          "margin":0,
