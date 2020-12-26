@@ -1,0 +1,22 @@
+{ "columns":32,
+ "editorsettings":
+    {
+     "export":
+        {
+         "format":"",
+         "target":"."
+        }
+    },
+ "image":"..\/..\/..\/Desktop\/RLHx\/test3.jpg",
+ "imageheight":768,
+ "imagewidth":1024,
+ "margin":0,
+ "name":"test3",
+ "spacing":0,
+ "tilecount":768,
+ "tiledversion":"1.4.3",
+ "tileheight":32,
+ "tilewidth":32,
+ "type":"tileset",
+ "version":1.4
+}
