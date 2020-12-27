@@ -1,4 +1,11 @@
 { "compressionlevel":-1,
+ "editorsettings":
+    {
+     "export":
+        {
+         "target":"."
+        }
+    },
  "height":20,
  "infinite":false,
  "layers":[
@@ -269,7 +276,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"puffk\u00fcche.json#start"
+                 "value":"kitchen.json#start"
                 }],
          "type":"tilelayer",
          "visible":true,

@@ -3,7 +3,8 @@
     {
      "export":
         {
-         "format":"json"
+         "format":"json",
+         "target":"."
         }
     },
  "height":50,
@@ -199,7 +200,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"puffk\u00fcche.json#start"
+                 "value":"kitchen.json#start"
                 }],
          "type":"tilelayer",
          "visible":true,
