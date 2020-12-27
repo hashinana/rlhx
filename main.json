@@ -1,11 +1,4 @@
 { "compressionlevel":-1,
- "editorsettings":
-    {
-     "export":
-        {
-         "target":"rlhx"
-        }
-    },
  "height":70,
  "infinite":false,
  "layers":[
@@ -195,29 +188,6 @@
          "spacing":0,
          "tilecount":256,
          "tileheight":32,
-         "tilewidth":32
-        }, 
-        {
-         "columns":16,
-         "firstgid":2508,
-         "image":"rlhx\/rc3-mullana-colors-128.png",
-         "imageheight":256,
-         "imagewidth":512,
-         "margin":0,
-         "name":"rc3-mullana-colors-128",
-         "spacing":0,
-         "tilecount":128,
-         "tileheight":32,
-         "tiles":[
-                {
-                 "id":2,
-                 "properties":[
-                        {
-                         "name":"collides",
-                         "type":"bool",
-                         "value":true
-                        }]
-                }],
          "tilewidth":32
         }],
  "tilewidth":32,
