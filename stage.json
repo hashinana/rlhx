@@ -144,9 +144,9 @@
          "opacity":1,
          "properties":[
                 {
-                 "name":"bigbluebutton",
+                 "name":"jitsiRoom",
                  "type":"string",
-                 "value":"stage"
+                 "value":"rlhxmainstage"
                 }],
          "type":"tilelayer",
          "visible":true,
