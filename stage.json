@@ -144,9 +144,9 @@
          "opacity":1,
          "properties":[
                 {
-                 "name":"openWebsite",
+                 "name":"bbbRoom",
                  "type":"string",
-                 "value":"https:\/\/rc3.world\/rc3\/room\/c01d5efb-3399-4530-8212-053609829614\/"
+                 "value":"main-41b6"
                 }],
          "type":"tilelayer",
          "visible":true,
