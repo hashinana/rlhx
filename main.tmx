@@ -988,7 +988,7 @@
  </layer>
  <layer id="20" name="exittemple" width="77" height="77">
   <properties>
-   <property name="exitUrl" value="klinik.json"/>
+   <property name="exitUrl" value="temple.json"/>
   </properties>
   <data encoding="csv">
 0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
